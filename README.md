@@ -1,7 +1,7 @@
 # MDA_KUL
 Noise in Leuven - CHAD team
 
-## Air quality data
+## Air quality data - historical
 Scraped using OpenAQ API: https://explore.openaq.org/locations/63272#download-card
 - locationId: 63272
 - location:   Sluispark Leuven
@@ -13,6 +13,9 @@ Scraped using OpenAQ API: https://explore.openaq.org/locations/63272#download-ca
 - um010:      unit (particles/cm³)
 - um025:      unit (particles/cm³)
 - um100:      unit (particles/cm³)
+
+## Air quality data - Forecast
+https://air-quality-api.open-meteo.com/v1/air-quality?latitude=50.88&longitude=4.70&hourly=pm10,pm2_5&format=csv
 
 ## Weather data
 Using Open Meteo API
