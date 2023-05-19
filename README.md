@@ -1,7 +1,7 @@
 # MDA_KUL
 Noise in Leuven - CHAD team
 
-## Air quality data:
+## Air quality data
 Scraped using OpenAQ API: https://explore.openaq.org/locations/63272#download-card
 - locationId: 63272
 - location:   Sluispark Leuven
