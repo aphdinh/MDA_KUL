@@ -40,11 +40,12 @@ with st.container():
 header = st.container()
 
 with header:
-    st.markdown("<h2 style='text-align: center; color: black;'>Leuven Weather and Noise Level Forecast</h2>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align: left;'>Welcome to WoiseCast, a web app developed by Team Chad for the Modern Data Analytics course. \
+    st.markdown("<h2 style='text-align: left; color: black; font-family: Arial, sans-serif; font-size: 32px;'>Leuven Weather and Noise Level Forecast</h2>",
+                unsafe_allow_html=True)
+    st.markdown("<p style='text-align: left;'>Welcome to WoiseCast, a web app developed by Team Chad for the Modern Data Analytics course. <br>\
         Our app predicts noise levels in Leuven city using weather and air quality data. \
-        With accurate forecasts, you can plan activities, minimize disruptions, and maintain a peaceful environment. \
-        Join us in creating a harmonious city experience with WoiseCast!</p>", unsafe_allow_html=True)
+        With accurate forecasts, you can plan activities, minimize disruptions, and maintain a peaceful environment.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: left;'>Join us in creating a harmonious city experience with WoiseCast! &#x1F601;</p>", unsafe_allow_html=True)
 
     
 # Map and today's weather section
