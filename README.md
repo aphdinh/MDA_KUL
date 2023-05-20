@@ -1,5 +1,5 @@
 # MDA_KUL
-Noise in Leuven - CHAD team
+Noise in Leuven - Team CHAD 
 
 ## Air quality data 
 Scraped using OpenWeatherMap API:
