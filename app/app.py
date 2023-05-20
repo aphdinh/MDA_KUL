@@ -7,7 +7,7 @@ from streamlit_folium import folium_static
 import folium
 
 # Set page config and title
-st.set_page_config(page_title="WoiceCast", page_icon=":memo:")
+st.set_page_config(page_title="WoiseCast", page_icon=":memo:")
 
 # Add logo to page
 st.markdown(
