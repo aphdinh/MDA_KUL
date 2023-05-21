@@ -16,11 +16,11 @@ Which we can match with API:
 
 humidity - OK
 
-dewpoint_c - dwptemp?
+dewpoint_c - dwptemp - "Just" Celcius in essence. 
 
 We should drop _LC_N - ok
 
-uv (divide by 40m²/W for per second, then multiply for exposure ) - equivalent to?
+uv (divide by 40m²/W for per second, then multiply for exposure ) - used for RAD/RAD60 
 
 precip_mm - i've looked other API and precip could be a sum of rain + snow, not necessarily just rain
 
@@ -35,3 +35,4 @@ Should take either this or RAD imo. Just the same thing
 temp_c (Imo use this for all 3 simply take average/median of 4 here)
 
 ### So only humidity, wind speed, temp, dwptemp are good?
+No, we use Humidity, RAD, RAININ, DAILYRAIN, WINDSPEED, RAD60 (which is RAD in essence), and all TEMPs 
