@@ -16,4 +16,4 @@ Using Open Meteo API
 - Future data (forecast for 7 days): https://api.open-meteo.com/v1/forecast?latitude=50.88&longitude=4.70&hourly=temperature_2m,relativehumidity_2m,dewpoint_2m,apparent_temperature,pressure_msl,surface_pressure,precipitation,snowfall,cloudcover,cloudcover_low,cloudcover_mid,cloudcover_high,shortwave_radiation,direct_radiation,diffuse_radiation,direct_normal_irradiance,windspeed_10m,winddirection_10m,windgusts_10m
 
 ## App
-https://team-chad-mda-2023.streamlit.app/
+https://mda-team-chad-2023.streamlit.app/
