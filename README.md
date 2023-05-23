@@ -1,5 +1,23 @@
-# MDA_KUL
-Noise in Leuven - Team CHAD 
+# Modern Data Analytics - KU Leuven
+<img src="https://1.bp.blogspot.com/-3ace0pi5CDY/YD_29OjYgxI/AAAAAAAA4u4/pNiXRqjPvJMrUF2fhQ7IQhRm-UGXVuk6QCLcBGAsYHQ/s0/Flag_of_Chad.gif" alt="Flag" width="100" height="80">
+
+# Welcome to team Chad 👋
+
+$\mathbf{Members:}$ 
+
+
+Jeh	Mattummal	$\mathbf{(r0861984)}$ 
+
+Sven	Nelles	$\mathbf{(r0874870)}$ 
+
+Jef	Winant	$\mathbf{(r0931958)}$ 
+
+Yixin	Mei	$\mathbf{(r0911558)}$ 
+
+Duc	Tien Do	$\mathbf{(r0916083)}$ 
+
+Anh Phuong	Dinh	$\mathbf{(r0913033)}$ 
+
 
 ## Air quality data 
 Scraped using OpenWeatherMap API:
