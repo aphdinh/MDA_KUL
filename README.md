@@ -1,4 +1,4 @@
-# Modern Data Analytics
+# Modern Data Analytics - KU Leuven
 <img src="https://1.bp.blogspot.com/-3ace0pi5CDY/YD_29OjYgxI/AAAAAAAA4u4/pNiXRqjPvJMrUF2fhQ7IQhRm-UGXVuk6QCLcBGAsYHQ/s0/Flag_of_Chad.gif" alt="Flag" width="100" height="80">
 
 # Welcome to team Chad 👋
