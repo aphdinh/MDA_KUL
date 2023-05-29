@@ -35,6 +35,8 @@ Anh Phuong	Dinh	$\mathbf{(r0913033)}$
 
 ## ⚙️ Installation guide
 
+## 📊 Usage/Examples
+
 
 ## 💻 Application
 
