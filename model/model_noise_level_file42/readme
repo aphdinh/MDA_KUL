@@ -1,1 +1,10 @@
-
+The folder contains the files as the following:
+- encoder_model_file42.pkl: transformation independent variable
+- xgb_laeq.pkl: XGB model predicting laeq
+- xgb_lamax.pkl: XGB model predicting lamax
+- xgb_lceq.pkl: XGB model predicting lceq
+- xgb_lcpeak.pkl: XGB model predicting lcpeak
+- laeq_dict: hyperparameters of models that predict laeq
+- lamax_dict: hyperparameters of models that predict lamax
+- lceq_dict: hyperparameters of models that predict lceq
+- lcpeak_dict: hyperparameters of models that predict lcpeak
