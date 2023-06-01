@@ -5,7 +5,7 @@
 
 This is our project for the course Modern Data Analytics, where our objective is to develop an application that predicts the noise level in Naamsestraat, Leuven. The prediction model will be based on forecast weather and air quality data. By utilizing machine learning models, we aim to provide valuable insights into the noise levels in the city, enabling residents and authorities to better understand and manage noise pollution.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mda-team-chad-2023.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](mda-woise.streamlit.app)
 
 $\mathbf{Members:}$ 
 
