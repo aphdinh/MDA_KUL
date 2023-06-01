@@ -1,10 +1,14 @@
 The folder contains the files as the following:
 - encoder_model_file42.pkl: transformation independent variable
+- encoder_model_file42_meteo.pkl: transformation independent variable (variables in meteo files)
 - xgb_laeq.pkl: XGB model predicting laeq
 - xgb_lamax.pkl: XGB model predicting lamax
 - xgb_lceq.pkl: XGB model predicting lceq
 - xgb_lcpeak.pkl: XGB model predicting lcpeak
+- xgb_lcpeak_meteo.pkl: XGB model predicting lcpeak by using meteo data
 - laeq_dict: hyperparameters of models that predict laeq
 - lamax_dict: hyperparameters of models that predict lamax
 - lceq_dict: hyperparameters of models that predict lceq
 - lcpeak_dict: hyperparameters of models that predict lcpeak
+- lcpeak_dict_meteo: hyperparameters of models that predict lcpeak using meteo data
+
