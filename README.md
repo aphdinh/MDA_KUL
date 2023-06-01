@@ -32,6 +32,49 @@ Anh Phuong	Dinh	$\mathbf{(r0913033)}$
 
 ## 📚 File organization
 
+```
+📦 
+├─ README.md
+├─ __pycache__
+├─ app
+│  ├─ .streamlit
+│  │  └─ config.toml
+│  ├─ __pycache__
+│  │  ├─ historical_noise.cpython-39.pyc
+│  │  ├─ prediction_noise.cpython-39.pyc
+│  │  └─ weather.cpython-39.pyc
+│  ├─ historical_noise.py
+│  ├─ main.py
+│  ├─ prediction_noise.py
+│  ├─ requirements.txt
+│  ├─ weather.py
+│  └─ woise-logo.png
+├─ data
+│  ├─ file40
+│  ├─ file41.csv
+│  ├─ file41
+│  ├─ processed_air_quality_data.csv
+│  ├─ processed_file40_data.csv
+│  ├─ processed_file41_data.csv
+│  ├─ processed_file42_data.csv
+│  └─ processed_weather_data_leuven.csv
+├─ model
+│  ├─ Model_building_Tien.ipynb
+│  ├─ data_model.csv
+│  ├─ data_processing.ipynb
+│  ├─ model_noise_level_file40
+│  ├─ model_noise_level_file42
+│  └─ noise_types
+└─ notebook
+   ├─ 1_EDA.ipynb
+   ├─ 2_scrape_and_process_data.ipynb
+   ├─ 3_model_predict_noise_level_file40.ipynb
+   ├─ 4_model_predict_noise_level_file42.ipynb
+   ├─ 5_model_predict_noise_types.ipynb
+   ├─ 6_test_predictions.ipynb
+   └─ poisson_regression.ipynb
+```
+
 
 ## ⚙️ Installation guide
 
