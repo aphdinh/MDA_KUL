@@ -59,9 +59,6 @@ Anh Phuong	Dinh	$\mathbf{(r0913033)}$
 │  ├─ processed_file42_data.csv
 │  └─ processed_weather_data_leuven.csv
 ├─ model
-│  ├─ Model_building_Tien.ipynb
-│  ├─ data_model.csv
-│  ├─ data_processing.ipynb
 │  ├─ model_noise_level_file40
 │  ├─ model_noise_level_file42
 │  └─ noise_types
