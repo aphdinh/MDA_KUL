@@ -76,11 +76,21 @@ Anh Phuong	Dinh	$\mathbf{(r0913033)}$
 
 To set up the project environment, follow these instructions:
 
+Clone the project repository 
+```bash
+git clone https://github.com/aphdinh/MDA_KUL.git
+```
+Install the dependencies
 ```bash
 python -m venv mda_chad
 source mda_chad/bin/activate  # Windows: \venv\scripts\activate
 pip install -r requirements.txt
 ```
+Navigate into the "app" folder using the cd command:
+```bash
+cd app
+```
+
 then run the app locally:
 ```bash
 streamlit run main.py
