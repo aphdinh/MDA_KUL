@@ -36,6 +36,8 @@ Anh Phuong	Dinh	$\mathbf{(r0913033)}$
 📦 
 ├─ README.md
 ├─ __pycache__
+├─ conda_requirements.txt
+├─ pip_requirements.txt 
 ├─ app
 │  ├─ .streamlit
 │  │  └─ config.toml
@@ -84,7 +86,7 @@ Install the dependencies
 ```bash
 python -m venv mda_chad
 source mda_chad/bin/activate  # Windows: \venv\scripts\activate
-pip install -r conda_requirements.txt
+pip install -r pip_requirements.txt
 ```
 Navigate into the "app" folder using the cd command:
 ```bash
