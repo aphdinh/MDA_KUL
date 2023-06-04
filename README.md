@@ -68,18 +68,27 @@ Anh Phuong	Dinh	$\mathbf{(r0913033)}$
    ├─ 3_model_predict_noise_level_file40.ipynb
    ├─ 4_model_predict_noise_level_file42.ipynb
    ├─ 5_model_predict_noise_types.ipynb
-   ├─ 6_test_predictions.ipynb
-   └─ poisson_regression.ipynb
+   └─ 6_test_predictions.ipynb
 ```
 
 
 ## ⚙️ Installation guide
 
-## 📊 Usage/Examples
+To set up the project environment, follow these instructions:
+
+```bash
+python -m venv mda_chad
+source mda_chad/bin/activate  # Windows: \venv\scripts\activate
+pip install -r requirements.txt
+```
+then run the app locally:
+```bash
+streamlit run main.py
+```
+
+The app has also been deployed [here.](https://mda-woise.streamlit.app/)
 
 
-## 💻 Application
 
-The application code and deployment instructions can be found in the [repository](https://github.com/aphdinh/team_Chad_2023) associated with this project.
 
 
