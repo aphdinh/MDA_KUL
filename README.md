@@ -84,7 +84,7 @@ Install the dependencies
 ```bash
 python -m venv mda_chad
 source mda_chad/bin/activate  # Windows: \venv\scripts\activate
-pip install -r requirements.txt
+pip install -r conda_requirements.txt
 ```
 Navigate into the "app" folder using the cd command:
 ```bash
