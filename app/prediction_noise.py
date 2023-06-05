@@ -17,7 +17,6 @@ object_id_dict = {
     255439: "MP 01: Naamsestraat 35 Maxim",
     255440: "MP 02: Naamsestraat 57 Xior",
     255441: "MP 03: Naamsestraat 62 Taste",
-    303910: "MP 04: His & Hears",
     255442: "MP 05: Calvariekapel KU Leuven",
     255443: "MP 06: Parkstraat 2 La Filosovia",
     255444: "MP 07: Naamsestraat 81",

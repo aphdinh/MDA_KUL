@@ -36,5 +36,5 @@ st.sidebar.markdown(
 )
 
 st.sidebar.info(
-    "**Source code: [@aphdinh](https://github.com/aphdinh/MDA_KUL)**", icon="💡"
+    "**Source code: [@tiendd712](https://github.com/tiendd712/MDA_KUL)**", icon="💡"
 )
