@@ -14,7 +14,7 @@ pages = {
 
 
 # Woise Logo
-st.sidebar.image("woise-logo.png", use_column_width=True)
+st.sidebar.image("https://i.ibb.co/m9Yyn49/woise-logo.png", use_column_width=True)
 
 
 # Add a sidebar to select the page
