@@ -147,3 +147,16 @@ win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work
 yarl @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_e5nlunspj6/croots/recipe/yarl_1661437086516/work
 zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+streamlit==1.22.0
+streamlit-camera-input-live==0.2.0
+streamlit-card==0.0.4
+streamlit-embedcode==0.1.2
+streamlit-extras==0.2.7
+streamlit-faker==0.0.2
+streamlit-folium==0.11.1
+streamlit-image-coordinates==0.1.3
+streamlit-keyup==0.2.0
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==1.0.2
+folium==0.14.0
+
