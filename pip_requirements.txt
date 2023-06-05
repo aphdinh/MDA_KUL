@@ -13,7 +13,6 @@ attrs
 backcall 
 beautifulsoup4 
 bleach 
-blinker==1.4
 botocore 
 bottleneck 
 branca 
@@ -102,8 +101,6 @@ pyparsing
 PyQt5==5.15.7
 pyrsistent 
 PySocks 
-python-dateutil 
-pywinpty 
 PyYAML
 pyzmq
 requests 
@@ -154,4 +151,4 @@ streamlit-keyup==0.2.0
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==1.0.2
 folium==0.14.0
-xgboost
+Xgboost
